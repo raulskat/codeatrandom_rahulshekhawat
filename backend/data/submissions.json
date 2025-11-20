@@ -1,0 +1,78 @@
+[
+  {
+    "targetRole": "Backend Developer",
+    "providedSkills": [
+      "java"
+    ],
+    "matchedSkills": [
+      "Java"
+    ],
+    "missingSkills": [
+      "Spring Boot",
+      "SQL",
+      "APIs",
+      "Git"
+    ],
+    "recommendations": [
+      "Spend focused study time on Spring Boot and add a small project to validate it.",
+      "Spend focused study time on SQL and add a small project to validate it.",
+      "Spend focused study time on APIs and add a small project to validate it.",
+      "Spend focused study time on Git and add a small project to validate it."
+    ],
+    "suggestedLearningOrder": [
+      {
+        "step": 1,
+        "skill": "Spring Boot"
+      },
+      {
+        "step": 2,
+        "skill": "SQL"
+      },
+      {
+        "step": 3,
+        "skill": "APIs"
+      },
+      {
+        "step": 4,
+        "skill": "Git"
+      }
+    ],
+    "createdAt": "2025-11-20T17:49:59.119Z"
+  },
+  {
+    "targetRole": "Backend Developer",
+    "providedSkills": [
+      "java",
+      "git"
+    ],
+    "matchedSkills": [
+      "Java",
+      "Git"
+    ],
+    "missingSkills": [
+      "Spring Boot",
+      "SQL",
+      "APIs"
+    ],
+    "recommendations": [
+      "Spend focused study time on Spring Boot and add a small project to validate it.",
+      "Spend focused study time on SQL and add a small project to validate it.",
+      "Spend focused study time on APIs and add a small project to validate it."
+    ],
+    "suggestedLearningOrder": [
+      {
+        "step": 1,
+        "skill": "Spring Boot"
+      },
+      {
+        "step": 2,
+        "skill": "SQL"
+      },
+      {
+        "step": 3,
+        "skill": "APIs"
+      }
+    ],
+    "createdAt": "2025-11-20T17:56:51.618Z"
+  }
+]
